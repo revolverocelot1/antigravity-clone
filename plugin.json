@@ -1,0 +1,8 @@
+{
+  "name": "antigravity-clone",
+  "version": "1.0.0",
+  "description": "Clone any Antigravity conversation (/clone or .clone) with full messages, brain artifacts, workspace/project bindings, pinned status, and timestamps preserved.",
+  "author": "revolverocelot1",
+  "repository": "https://github.com/revolverocelot1/antigravity-clone",
+  "disabled": false
+}

@@ -1,0 +1,11 @@
+{
+  "antigravity-clone": {
+    "PreInvocation": [
+      {
+        "type": "command",
+        "command": "python -u clone_pre.py",
+        "timeout": 120
+      }
+    ]
+  }
+}

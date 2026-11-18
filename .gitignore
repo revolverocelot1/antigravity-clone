@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Runtime guard & temporary execution files
+.clone_guard.json
+.tmp*
+*.tmp
+
+# Test & OS artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+Thumbs.db
+desktop.ini
